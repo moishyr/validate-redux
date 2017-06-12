@@ -1,0 +1,17 @@
+{
+    "extends": "eslint:recommended",//"standard",
+    "plugins": [
+        "standard",
+        "promise"
+    ],
+    "rules": {
+        "semi": [
+            "error",
+            "always"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ]
+    }
+}
